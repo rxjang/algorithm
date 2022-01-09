@@ -1,4 +1,4 @@
-package programmers.RecursionFunction;
+package backjoon.recursionFunction;
 
 import java.io.BufferedReader;
 import java.io.IOException;

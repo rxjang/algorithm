@@ -1,4 +1,4 @@
-package programmers.basicMath2;
+package backjoon.basicMath2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
