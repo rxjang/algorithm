@@ -1,4 +1,4 @@
-package chap04;
+package introductionofalogrithm.chap04;
 
 public class IntStackX {
     private int max;

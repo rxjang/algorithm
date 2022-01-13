@@ -1,4 +1,4 @@
-package chap04;
+package introductionofalogrithm.chap04;
 
 public class IntArrayQueue {
     private int max;    // 큐 용량

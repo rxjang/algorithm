@@ -1,4 +1,4 @@
-package chap04;
+package introductionofalogrithm.chap04;
 
 public class GStack<E> {
     private int max;

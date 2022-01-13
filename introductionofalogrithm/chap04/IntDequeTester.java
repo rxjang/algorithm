@@ -1,4 +1,4 @@
-package chap04;
+package introductionofalogrithm.chap04;
 
 import java.util.Scanner;
 
