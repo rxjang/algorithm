@@ -1,6 +1,6 @@
-package chap05;
+package introductionofalogrithm.chap05;
 
-import chap04.IntStack;
+import introductionofalogrithm.chap04.IntStack;
 
 public class recurX2 {
 
