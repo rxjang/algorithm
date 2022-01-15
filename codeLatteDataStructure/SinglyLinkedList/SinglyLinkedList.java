@@ -1,4 +1,4 @@
-package codeLatteDataStructure.LinkedList;
+package codeLatteDataStructure.SinglyLinkedList;
 
 public class SinglyLinkedList<T> {
 
@@ -94,6 +94,5 @@ public class SinglyLinkedList<T> {
         stringBuilder.append("null");
         return stringBuilder.toString();
     }
-
 
 }

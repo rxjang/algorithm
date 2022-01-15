@@ -1,4 +1,4 @@
-package codeLatteDataStructure.LinkedList;
+package codeLatteDataStructure.SinglyLinkedList;
 
 public class SinglyLinkedListTest {
     public static void main(String[] args) {
