@@ -1,4 +1,4 @@
-package codeLatteDataStructure.Stack;
+package codeLatteDataStructure.Queue;
 
 public class Node<E> {
     Node<E> next;
